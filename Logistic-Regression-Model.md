@@ -1,3 +1,6 @@
+# Machine Learning With R: Building A Logistic Regression Model To Predict The Survivors Of the Titanic Disaster
+### Jarred Petersen
+
 During this project, I will train logistic regression model to predict
 whether a passenger will survive the sinking of the Titanic based on the
 sex, gender, class, ticket fare, and family size of the passenger in
